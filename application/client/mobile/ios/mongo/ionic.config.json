@@ -1,0 +1,7 @@
+{
+  "name": "mongo",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
